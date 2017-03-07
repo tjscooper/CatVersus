@@ -1,0 +1,19 @@
+{
+  "name": "catversus",
+  "version": "0.0.2",
+  "description": "A cat game designed by Liam Cooper",
+  "main": "index.html",
+  "bin": {
+    "catversus": "hexi.js"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Cooper",
+  "license": "ISC"
+}
